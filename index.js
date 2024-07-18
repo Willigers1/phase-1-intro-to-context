@@ -1,10 +1,10 @@
 // Your code here
 
 // Your code here
-function createEmployeeRecord([fName, lName, title, rate]) {
+function createEmployeeRecord([fName, Rono, title, rate]) {
   return {
     firstName: fName,
-    familyName: lName,
+    familyName: Rono,
     title: title,
     payPerHour: rate,
     timeInEvents: [],
